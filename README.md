@@ -20,6 +20,9 @@
 <li>Data Cleaning & Preprocessing: Handling missing values and anomalies.</li>
 
 <li>Exploratory Data Analysis (EDA): Identifying trends, seasonality, and anomalies in website </li>
+<li>Engagement Analysis: Examining how total users, sessions, and session duration evolve over time.</li>
+<li>Correlation Analysis: Identifying relationships between key website metrics (e.g., how session duration impacts bounce rate).</li>
+<li>Channel Performance Analysis: Evaluating traffic sources (organic, social, paid, referral) to determine which channels drive engagement and retention.</li>
 
 <li>Forecasting: Implementing ARIMA for short-term predictions, SARIMA for seasonal patterns, and Prophet for long-term trends.</li>
 
