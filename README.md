@@ -1,4 +1,4 @@
-<img src="https://www.google.com/imgres?q=web%20analytics%20animated&imgurl=https%3A%2F%2Fi.gifer.com%2F74pZ.gif&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fanalytics&docid=nsMFs0EAJtL9oM&tbnid=y8VyWD-QFX6ScM&vet=12ahUKEwjw69TQt6CMAxVBRWwGHe3HLfUQM3oECGcQAA..i&w=800&h=600&hcb=2&ved=2ahUKEwjw69TQt6CMAxVBRWwGHe3HLfUQM3oECGcQAA" width="1000" height="800">
+<img src="https://i.gifer.com/74pZ.gif" width="1000" height="500">
 <h2>Problem</h2>
 <P>Websites experience fluctuating traffic patterns influenced by user behavior, seasonal trends, and external events. Without accurate forecasting, businesses struggle with server overloads, downtime, and inefficient resource allocation. This unpredictability impacts user experience, conversion rates, and overall business performance.</P>
 
